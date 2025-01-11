@@ -1019,7 +1019,7 @@ Hyperlinks use square brackets for the text followed by parentheses for the
 URL. You can also put links in as plain text and make your users copy-paste
 them into their browser.
 
-[Markdown](https://daringfireball.net/projects/markdown)
+[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ------------------------------------------------------------------------------
 
