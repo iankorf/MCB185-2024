@@ -2043,9 +2043,10 @@ You are now ready for your live assessment.
 
 ## Assessment Example ##
 
-1. Open a new terminal. You are not allowed to use `cd` during the assessment.
-Create a new directory called `test` in your `mcb185_homework` directory. All
-files created during the assessment must be created in the `test` directory.
+1. Open a new terminal and change focus to your homework directory. You are not
+allowed to use `cd` again during the assessment. Create a new directory called
+`test` in your `mcb185_homework` directory. All files created during the
+assessment must be created in the `test` directory.
 
 This task tests your knowledge of absolute and relative paths.
 
