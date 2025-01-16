@@ -969,7 +969,7 @@ To find out how to write Markdown, check out the website linked below. This is
 the official home of vanilla Markdown. There are a few customizations of
 Markdown that add a few more things like tables.
 
-[Markdown](https://daringfireball.net/projects/markdown)
+[Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 Another way to learn Markdown is to compare an HTML or PDF file to its original
 Markdown plain text source document. If you're viewing this document on GitHub,
